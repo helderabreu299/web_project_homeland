@@ -88,7 +88,7 @@
 .intro__title {
    width: 830px;
    height: 116px;
-   gap:40px;
+   margin-bottom:40px;
    font-family: Inter;
    font-weight: 900;
    font-size: 54px;
@@ -101,7 +101,8 @@
 .intro__text-quote {
     width: 738px;
     height: 68px;
-    column-gap: 40px;
+    margin-bottom: 10px;
+    margin-right: 92px;
     angle: 0 deg;
     opacity: 1;
     font-family: Inter;
@@ -118,7 +119,7 @@
     width:732px;
     height:34px;
     margin-bottom: 32px;
-    margin-top: 40px;
+    margin-right: 98px;
     font-family: Inter;
     font-weight: 400;
     font-size: 24px;
@@ -131,7 +132,7 @@
 .intro__text-description {  
     width: 722px;
     height: 182px;
-    
+    margin-right: 108px;
     font-family: Inter;
     font-weight: 400;
     font-size: 16px;
@@ -139,8 +140,6 @@
     line-height: 163%;
     letter-spacing: 0%;
  
-   
-
 }
 
 
@@ -152,7 +151,7 @@
     height: 16;
     angle: 0 deg;
     opacity: 1;
-
-
 }
+
+
 
