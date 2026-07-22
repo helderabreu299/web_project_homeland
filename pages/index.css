@@ -1,157 +1,21 @@
-.page {
-    background-color: #2A2C2F;
-    max-width: 1280px;
-    min-width: 320px;
-    font-family: "Inter";
-    color: #fff;
-    position:relative;
-    display: flex;
-    flex-direction: column;
+
    
-}
 
-.header__logo {
-    width: 254px;
-    height: 70px;
-    margin-top: 34px;
-    margin-left: 513px;
 
-}
 
-.lead {
-   max-width: 984px;
-   max-height: 983px;
-    margin: 90px 148px 92px;
-    display: flex;
-    flex-direction: column;
-    position: relative;
-    align-items: center;
-    justify-content: center;
+
+
+
+
 
     
 
-}
-
-.lead__title {
-    width: 720px;
-    height: 200px;
-    position: relative;
-    opacity: 1;
-    font-family: "inter";
-    font-weight: 900px;
-    font-style: black;
-    font-size: 96px;
-    line-height: 100px;
-    letter-spacing: 0px;
-    margin: 0 auto;
-    text-align: center;
-
-    
-
-}
-
-.lead__subtitle {
-    width:720px;
-    height: 72px;
-    margin: 32px auto 64px;
-    font-family: "inter";
-    font-weight: 400px;
-    font-size: 30px;
-    line-height: 36px;
-    letter-spacing: 0px;
-    text-align: center;
-    
-}
-
-
-.lead__image {
-    position: relative;
-    width: 984px;
-    height: 615px;
-
-
-}
-
-
-.intro {
-    display: flex;
-    flex-direction: column;
-    width:830px;
-    height: 482px;
-    margin-top: auto;
-    margin-left: 148px;
-    margin-right: 302px;
-    margin-bottom: 132px;   
-}
-    
-
-.intro__title {
-   width: 830px;
-   height: 116px;
-   margin-bottom:40px;
-   font-family: Inter;
-   font-weight: 900;
-   font-size: 54px;
-   leading-trim: NONE;
-   line-height: 58px;
-   letter-spacing: 0%;
-}
-
-
-.intro__text-quote {
-    width: 738px;
-    height: 68px;
-    margin-bottom: 10px;
-    margin-right: 92px;
-    angle: 0 deg;
-    opacity: 1;
-    font-family: Inter;
-    font-weight: 400;
-    font-size: 24px;
-    leading-trim: NONE;
-    line-height: 34px;
-    letter-spacing: 0%;
-    align-items: flex-start;
-}
-
-    
-.intro__text-author {
-    width:732px;
-    height:34px;
-    margin-bottom: 32px;
-    margin-right: 98px;
-    font-family: Inter;
-    font-weight: 400;
-    font-size: 24px;
-    leading-trim: NONE;
-    letter-spacing: 0%;
-    text-align: right;
-}
-
-
-.intro__text-description {  
-    width: 722px;
-    height: 182px;
-    margin-right: 108px;
-    font-family: Inter;
-    font-weight: 400;
-    font-size: 16px;
-    leading-trim: NONE;
-    line-height: 163%;
-    letter-spacing: 0%;
- 
-}
 
 
 
-.footer__copyright {
-    width: 166px;
-    height:16px;
-    margin: 92px 556px 24px 558px;
-    height: 16;
-    angle: 0 deg;
-    opacity: 1;
-}
+
+
+
 
 
 

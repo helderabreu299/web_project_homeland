@@ -1,0 +1,9 @@
+
+.footer__copyright {
+    width: 166px;
+    height:16px;
+    margin: 92px 556px 24px 558px;
+    height: 16;
+    angle: 0 deg;
+    opacity: 1;
+}
