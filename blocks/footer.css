@@ -1,9 +1,32 @@
 
 .footer__copyright {
     width: 166px;
-    height:16px;
     margin: 92px 556px 24px 558px;
-    height: 16;
-    angle: 0 deg;
+    height: 16px;
     opacity: 1;
+    
+}
+
+@media screen and (max-width:1024px) {
+    .footer__copyright {
+        max-width: 166px;
+        font-size: 14px;
+        text-align: center;
+        margin-left: 300px;
+        margin-right: 302px;
+        margin-bottom: 24px;
+
+    
+    }
+}
+
+@media screen and (max-width:544px) {
+    .footer__copyright {
+        display: flex;
+        margin: 0 auto 24px;
+        max-width: 544px;
+        font-size: 14px;
+        text-align: center;
+        margin-top:64px;
+    }
 }

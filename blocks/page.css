@@ -7,5 +7,23 @@
     position:relative;
     display: flex;
     flex-direction: column;
+    margin: 0 auto;
    
+}
+
+
+@media screen and (max-width: 1024px) {
+ .page {
+    max-width:768px;
+    display: flex;
+   }
+}
+
+@media screen and (max-width:544px) {
+
+ .page {
+    max-width:320px;
+    display: flex;
+   }
+
 }
